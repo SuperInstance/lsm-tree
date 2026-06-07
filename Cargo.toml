@@ -1,0 +1,11 @@
+[package]
+name = "lsm-tree"
+version = "0.1.0"
+edition = "2021"
+description = "Log-structured merge tree with memtable, SSTable, compaction, and bloom filters"
+license = "MIT"
+repository = "https://github.com/SuperInstance/lsm-tree"
+keywords = ["lsm", "database", "storage-engine", "sstree"]
+categories = ["data-structures", "algorithms"]
+
+[dependencies]
